@@ -1,0 +1,23 @@
+.submit-form{
+    display: grid;
+    grid-template-rows: 1fr;
+   align-content: center;
+   align-items: center;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+
+    
+
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    background-color: #26a69a;
+
+    border:none;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+}

@@ -1,0 +1,19 @@
+.buttonToAdd{
+    position: fixed;
+    bottom: 30px;
+    right: 50px;
+    height: 50px;
+    width: auto;
+
+    padding: 15px;
+
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    background-color: #26a69a;
+
+    box-shadow: 3px 3px 3px gray;
+    color: white;
+    cursor: pointer;
+    border-radius: 3px;
+}
